@@ -12,7 +12,7 @@
 <img width="60%" src="https://user-images.githubusercontent.com/60250322/203462968-02846675-4a45-48ee-b028-942ad8b971e0.png">
 
 ## 장소 선택 화면<br>
-<img width="60%" src="https://user-images.githubusercontent.com/60250322/203462976-0b176735-9ed8-4934-b7d9-ce9572ce0233.png">
+<img width="60%" src="https://user-images.githubusercontent.com/60250322/203746597-ca8acc63-4798-4d65-81f1-847db047897c.png">
 
 ## 장소 정보 화면<br>
 <img width="60%" src="https://user-images.githubusercontent.com/60250322/203462982-3ca28316-0260-4d75-84a6-6edcef306053.png">
